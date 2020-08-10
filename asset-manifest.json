@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/xiraynedev/pokefinder/static/css/main.7bc1464b.chunk.css",
-    "main.js": "/xiraynedev/pokefinder/static/js/main.7b7ac716.chunk.js",
-    "main.js.map": "/xiraynedev/pokefinder/static/js/main.7b7ac716.chunk.js.map",
-    "runtime-main.js": "/xiraynedev/pokefinder/static/js/runtime-main.9a73ca3a.js",
-    "runtime-main.js.map": "/xiraynedev/pokefinder/static/js/runtime-main.9a73ca3a.js.map",
-    "static/js/2.ae44b662.chunk.js": "/xiraynedev/pokefinder/static/js/2.ae44b662.chunk.js",
-    "static/js/2.ae44b662.chunk.js.map": "/xiraynedev/pokefinder/static/js/2.ae44b662.chunk.js.map",
-    "index.html": "/xiraynedev/pokefinder/index.html",
-    "precache-manifest.bd14caf015f2facf5316db474cf14e61.js": "/xiraynedev/pokefinder/precache-manifest.bd14caf015f2facf5316db474cf14e61.js",
-    "service-worker.js": "/xiraynedev/pokefinder/service-worker.js",
-    "static/css/main.7bc1464b.chunk.css.map": "/xiraynedev/pokefinder/static/css/main.7bc1464b.chunk.css.map",
-    "static/js/2.ae44b662.chunk.js.LICENSE.txt": "/xiraynedev/pokefinder/static/js/2.ae44b662.chunk.js.LICENSE.txt"
+    "main.css": "/pokefinder/static/css/main.7bc1464b.chunk.css",
+    "main.js": "/pokefinder/static/js/main.7b7ac716.chunk.js",
+    "main.js.map": "/pokefinder/static/js/main.7b7ac716.chunk.js.map",
+    "runtime-main.js": "/pokefinder/static/js/runtime-main.8ba0ee6d.js",
+    "runtime-main.js.map": "/pokefinder/static/js/runtime-main.8ba0ee6d.js.map",
+    "static/js/2.ae44b662.chunk.js": "/pokefinder/static/js/2.ae44b662.chunk.js",
+    "static/js/2.ae44b662.chunk.js.map": "/pokefinder/static/js/2.ae44b662.chunk.js.map",
+    "index.html": "/pokefinder/index.html",
+    "precache-manifest.08a7b820d5415a69796229e7861b7e95.js": "/pokefinder/precache-manifest.08a7b820d5415a69796229e7861b7e95.js",
+    "service-worker.js": "/pokefinder/service-worker.js",
+    "static/css/main.7bc1464b.chunk.css.map": "/pokefinder/static/css/main.7bc1464b.chunk.css.map",
+    "static/js/2.ae44b662.chunk.js.LICENSE.txt": "/pokefinder/static/js/2.ae44b662.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a73ca3a.js",
+    "static/js/runtime-main.8ba0ee6d.js",
     "static/js/2.ae44b662.chunk.js",
     "static/css/main.7bc1464b.chunk.css",
     "static/js/main.7b7ac716.chunk.js"
