@@ -7,7 +7,7 @@ function App() {
     const [poke, setPoke] = useState([])
     const [currentPageUrl, setCurrentPageUrl] = useState("https://pokeapi.co/api/v2/pokemon")
     const [nextPageUrl, setNextPageUrl] = useState()
-    const [prevPageUrl, setPrevPageUr] = useState()
+    const [prevPageUrl, setPrevPageUrl] = useState()
     const [loading, setLoading] = useState(true)
 
     useEffect(() => {
@@ -19,7 +19,7 @@ function App() {
             .then(res => {
                 setLoading(false)
                 setNextPageUrl(res.data.next)
-                setPrevPageUr(res.data.previous)
+                setPrevPageUrl(res.data.previous)
                 setPoke(res.data.results.map(p => p.name))
             })
 
